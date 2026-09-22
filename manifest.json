@@ -1,0 +1,16 @@
+{
+  "name": "J.A.R.V.I.S. HUD Stark",
+  "short_name": "JARVIS",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#02050b",
+  "theme_color": "#00f0ff",
+  "icons": [
+    {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Circle-icons-rocket.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
